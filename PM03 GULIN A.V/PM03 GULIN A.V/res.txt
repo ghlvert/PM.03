@@ -1,0 +1,3 @@
+trete 1 1 
+pervoe 2 3 
+vtoroe 2 4 
